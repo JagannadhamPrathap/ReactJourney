@@ -1,0 +1,18 @@
+body{
+    background-image: url(assets/bgimg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.clock{
+    color: white;
+    font-size: 6rem;
+    font-family: monospace;
+    font-weight: bold;
+}
